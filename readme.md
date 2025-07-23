@@ -1,0 +1,1 @@
+iiciando o gid direto do vscode
